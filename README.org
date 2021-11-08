@@ -1,0 +1,2 @@
+* Preface
+  This repo is used for my Pyqt, maybe upload slowly, but I will learn it successfully.
