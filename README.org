@@ -3,4 +3,4 @@
 ** Target
    I learn the *PyQt5*, just for interest. I learn the *tkinter*, but it is very complex.
    So I forget it almostly, I decide to learn Qt again.
-   The targete is =finish the basic UI= with *PyQt5*.
+   The target is =finish the basic UI of Emacs= with *PyQt5*.
